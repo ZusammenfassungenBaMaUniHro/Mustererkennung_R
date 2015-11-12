@@ -11,3 +11,6 @@
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+
+# .dat produced by by some scripts
+*.dat
