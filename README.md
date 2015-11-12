@@ -32,3 +32,7 @@ Entspricht Aufgabe 3 im selben Foliensatz.
 Halbwegs selbsterklärend.
 Ich habe allerdings keine Ahnung, was das soll.
 Die letzte Teilaufgabe fehlt.
+
+### 03 - variance
+Implementiert die Varianz-Funktion aus der Folie und führt sie zum angegebenen Datenatz aus.
+Nutzt zusätzlich die Funktion `table()`, welche die Häufigkeiten der einzelnen Zahlen ausgibt und plottet alles in einem Histogramm.
