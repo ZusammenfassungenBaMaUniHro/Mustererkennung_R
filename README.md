@@ -26,3 +26,9 @@ Entspricht Aufgabe 2 (Foliensatz 1, Seite 7).
 Die Skripte sind weitgehend selbsterklärend.
 **Hinweis:** Das Arbeitsverzeichnis kann mit `getwd()` überprüft und beispielsweise mit `setwd("F:/Studium/Zusammenfassungen/Mustererkennung_R/")` geändert werden.
 Die Skripte werden mit `source("01a_save.r")` bzw. `source("01b_load.r")` geladen *und ausgeführt*.
+
+### 02 - types
+Entspricht Aufgabe 3 im selben Foliensatz.
+Halbwegs selbsterklärend.
+Ich habe allerdings keine Ahnung, was das soll.
+Die letzte Teilaufgabe fehlt.
